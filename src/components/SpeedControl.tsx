@@ -12,7 +12,7 @@ export function SpeedControl({
   wpm,
   onChange,
   min = 100,
-  max = 1000,
+  max = 1400,
   step = 25,
 }: SpeedControlProps) {
   return (
